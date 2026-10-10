@@ -1,5 +1,5 @@
 <h1 align="center">Wivoice</h1>
-
+<p align="center"><img src="preview.png" width="720" alt="Wivoice"></p>
 <p align="center">
   <strong>Free voice dictation for your desktop. A free alternative to Wispr Flow.</strong><br>
   Press a hotkey, speak, and your words appear in any app.
