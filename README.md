@@ -8,7 +8,7 @@ Free and open source alternative to Wispr Flow, Superwhisper, and Monologue.
 </p>
 
 <p align="center">
-  <a href="https://github.com/WatchCobbler/Free-and-open-source-alternative-to-Wispr-Flow/releases/tag/v0.1.0"><img alt="Download" src="https://img.shields.io/github/v/release/[your-username]/[repo-name]?label=download"></a>
+  <a href="https://github.com/WatchCobbler/Free-and-open-source-alternative-to-Wispr-Flow/releases/tag/v0.1.0"><img alt="Download" 
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
   <img alt="Platform" src="https://img.shields.io/badge/platform-[Windows%20%7C]-lightgrey">
   <a href="https://github.com/[your-username]/[repo-name]/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/[your-username]/[repo-name]?style=social"></a>
